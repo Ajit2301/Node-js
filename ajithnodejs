@@ -1,0 +1,23 @@
+x=10
+do
+{
+console.log(x)
+++x
+}
+while(x<=20)
+> x=10
+10
+> do
+... {
+... console.log(x)
+... ++x
+... }
+x=10
+do
+{
+++x
+console.log("x:",x)
+}
+while(x<=20)
+x=100
+_
